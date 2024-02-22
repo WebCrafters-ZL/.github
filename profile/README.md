@@ -5,11 +5,12 @@ Bem-vindo ao repositório do nosso grupo. Este é um espaço dedicado à colabor
 ## Sobre Nós
 
 - **Nome do Grupo:** WebCrafters ZL
-- **Membros:** [@caiocesardev](https://www.github.com/caiocesardev), [@Doglaska](https://www.github.com/Doglaska), [@leoesilva](https://www.github.com/leoesilva), [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
+- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@Doglaska](https://www.github.com/Doglaska), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
+- **Membros anteriores:** [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to)
 
 ## Objetivos
 
-Nossa equipe se dedica a desenvolver os trabalhos relacionados ao **Projeto Interdisciplinar** do 1º semestre do **Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma** da **Fatec Zona Leste**
+Nossa equipe se dedica a desenvolver os trabalhos relacionados aos **Projeto Interdisciplinares** do **Curso Superior de Tecnologia em Desenvolvimento de Software Multiplataforma** da **Fatec Zona Leste**
 
 ## Projetos
 
