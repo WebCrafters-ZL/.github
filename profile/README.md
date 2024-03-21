@@ -16,6 +16,12 @@ Nossa equipe se dedica a desenvolver os trabalhos relacionados aos **Projeto Int
 
 Aqui estão alguns dos nossos projetos atuais e passados:
 
+### 1º semestre
+
 1. **[@WebCrafters-ZL/streetwise-web](https://github.com/WebCrafters-ZL/streetwise-web):** Website para o estúdio de tatuagem Streetwise Tattoo (em andamento).
 2. **[@WebCrafters-ZL/streetwise-java](https://github.com/WebCrafters-ZL/streetwise-java):** Quiz em Java para escolher o tatuador a partir do estilo preferido de tatuagem.
 3. **[@WebCrafters-ZL/streetwise-crud](https://github.com/WebCrafters-ZL/streetwise-crud):** _"CRUD"_ em Java para manter registros de tatuagens e seus respectivos estilos.
+
+### 2º semestre
+
+4. **[@WebCrafters-ZL/recicleaqui](https://github.com/WebCrafters-ZL/recicleaqui):** Sistema de gestão de coleta de materiais recicláveis
