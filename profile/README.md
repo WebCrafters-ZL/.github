@@ -5,7 +5,7 @@ Bem-vindo ao repositório do nosso grupo. Este é um espaço dedicado à colabor
 ## Sobre Nós
 
 - **Nome do Grupo:** WebCrafters ZL
-- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@Doglaska](https://www.github.com/Doglaska), [@KelvinalexSD](https://www.github.com/KelvinalexSD), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
+- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
 - **Membros anteriores:** [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to)
 
 ## Objetivos
