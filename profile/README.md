@@ -34,3 +34,12 @@ O projeto AcademiTrack é uma aplicação web desenvolvida para gerenciar e acom
 
 5. **[@WebCrafters-ZL/academitrack-back](https://github.com/WebCrafters-ZL/academitrack-back):** Repositório do backend
 6. **[@WebCrafters-ZL/academitrack-front](https://github.com/WebCrafters-ZL/academitrack-front):** Repositório do frontend
+
+### 4º semestre
+
+#### DoeFood
+
+O projeto DoeFood é uma aplicação web desenvolvida para conectar produtores e comerciantes de alimentos interessados em realizar doações com organizações não-governamentais atuantes no combate à insegurança alimentar.
+
+7. **[@WebCrafters-ZL/doefood-back](https://github.com/WebCrafters-ZL/doefood-back):** Repositório do backend
+8. **[@WebCrafters-ZL/doefood-front](https://github.com/WebCrafters-ZL/doefood-front):** Repositório do frontend
