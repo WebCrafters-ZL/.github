@@ -43,3 +43,13 @@ O projeto DoeFood é uma aplicação web desenvolvida para conectar produtores e
 
 7. **[@WebCrafters-ZL/doefood-back](https://github.com/WebCrafters-ZL/doefood-back):** Repositório do backend
 8. **[@WebCrafters-ZL/doefood-front](https://github.com/WebCrafters-ZL/doefood-front):** Repositório do frontend
+
+### 5º semestre
+
+#### RecicleAqui 2.0
+
+Sistema de gestão de coleta de materiais recicláveis
+
+9. **[@WebCrafters-ZL/recicleaqui-20-back](https://github.com/WebCrafters-ZL/recicleaqui-20-back):** Repositório do backend
+10. **[@WebCrafters-ZL/recicleaqui-20-front](https://github.com/WebCrafters-ZL/recicleaqui-20-front):** Repositório do frontend
+
