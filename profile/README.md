@@ -58,5 +58,5 @@ Sistema de gestão de coleta de materiais recicláveis
 
 9. **[@WebCrafters-ZL/recicleaqui-20-back](https://github.com/WebCrafters-ZL/recicleaqui-20-back):** Repositório do backend
 10. **[@WebCrafters-ZL/recicleaqui-20-front](https://github.com/WebCrafters-ZL/recicleaqui-20-cliente):** Repositório do aplicativo cliente (mobile)
-11. **[@WebCrafters-ZL/recicleaqui-20-front](https://github.com/WebCrafters-ZL/recicleaqui-20-admin):** Repositório do painel administrativo (web)
+11. **[@WebCrafters-ZL/recicleaqui-20-admin](https://github.com/WebCrafters-ZL/recicleaqui-20-admin):** Repositório do painel administrativo (web)
 
