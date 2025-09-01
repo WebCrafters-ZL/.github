@@ -50,12 +50,6 @@ O projeto DoeFood é uma aplicação web desenvolvida para conectar produtores e
 
 Sistema de gestão de coleta de materiais recicláveis
 
-### 5º semestre
-
-#### RecicleAqui 2.0
-
-Sistema de gestão de coleta de materiais recicláveis
-
 9. **[@WebCrafters-ZL/recicleaqui-20-back](https://github.com/WebCrafters-ZL/recicleaqui-20-back):** Repositório do backend
 10. **[@WebCrafters-ZL/recicleaqui-20-front](https://github.com/WebCrafters-ZL/recicleaqui-20-cliente):** Repositório do aplicativo cliente (mobile)
 11. **[@WebCrafters-ZL/recicleaqui-20-admin](https://github.com/WebCrafters-ZL/recicleaqui-20-admin):** Repositório do painel administrativo (web)
