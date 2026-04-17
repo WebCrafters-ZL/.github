@@ -5,8 +5,8 @@ Bem-vindo ao repositório do nosso grupo. Este é um espaço dedicado à colabor
 ## Sobre Nós
 
 - **Nome do Grupo:** WebCrafters ZL
-- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@Bragadsss](https://www.github.com/Bragadsss), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
-- **Membros anteriores:** [@Doglaska](https://github.com/Doglaska), [@KelvinalexSD](https://github.com/KelvinalexSD), [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to)
+- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
+- **Membros anteriores:** [@Bragadsss](https://www.github.com/Bragadsss), [@Doglaska](https://github.com/Doglaska), [@KelvinalexSD](https://github.com/KelvinalexSD), [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to)
 
 ## Objetivos
 
@@ -53,4 +53,7 @@ Sistema de gestão de coleta de materiais recicláveis
 9. **[@WebCrafters-ZL/recicleaqui-20-back](https://github.com/WebCrafters-ZL/recicleaqui-20-back):** Repositório do backend
 10. **[@WebCrafters-ZL/recicleaqui-20-client](https://github.com/WebCrafters-ZL/recicleaqui-20-client):** Repositório do aplicativo cliente (mobile)
 11. **[@WebCrafters-ZL/recicleaqui-20-admin](https://github.com/WebCrafters-ZL/recicleaqui-20-admin):** Repositório do painel administrativo (web)
+
+### 6º semestre
+
 
