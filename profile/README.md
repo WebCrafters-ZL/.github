@@ -5,7 +5,7 @@ Bem-vindo ao repositório do nosso grupo. Este é um espaço dedicado à colabor
 ## Sobre Nós
 
 - **Nome do Grupo:** WebCrafters ZL
-- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
+- **Membros atuais:** [@caiocesardev](https://www.github.com/caiocesardev), [@felipeselva](https://www.github.com/felipeselva), [@leoesilva](https://www.github.com/leoesilva), [@AraujoThiago0822](https://www.github.com/AraujoThiago0822)
 - **Membros anteriores:** [@Bragadsss](https://www.github.com/Bragadsss), [@Doglaska](https://github.com/Doglaska), [@KelvinalexSD](https://github.com/KelvinalexSD), [@ricrdofilho](https://www.github.com/ricrdofilho), [@RodrigoCat-to](https://www.github.com/RodrigoCat-to)
 
 ## Objetivos
@@ -56,4 +56,9 @@ Sistema de gestão de coleta de materiais recicláveis
 
 ### 6º semestre
 
+#### Gatekeeper (provisório)
+
+Sistema de controle de acesso com ESP32 + módulo RFID MFRC522
+
+12. **[@WebCrafters-ZL/gatekeeper-kmp](https://github.com/WebCrafters-ZL/gatekeeper-kmp):** Repositório do frontend (Kotlin Multiplataforma)
 
